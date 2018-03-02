@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cd OpenSC2K && yarn install && yarn start
